@@ -1,0 +1,6 @@
+{ 
+	"name": "cloudb.it",
+	"description": "API for cloudb.it",
+	"version": "0.0.0",
+	"main": "index.js"
+}
